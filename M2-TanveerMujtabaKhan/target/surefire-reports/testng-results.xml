@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43289" started-at="2020-10-12T18:10:32Z" finished-at="2020-10-12T18:11:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43289" started-at="2020-10-12T18:10:32Z" finished-at="2020-10-12T18:11:16Z">
+      <class name="AlefEducation.Test_TanveerMujtabaKhan.TC_03getAllExistingOwners">
+        <test-method status="PASS" signature="launchBrowserAndSSO()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_03getAllExistingOwners@4e41089d]" name="launchBrowserAndSSO" is-config="true" duration-ms="6226" started-at="2020-10-12T23:40:47Z" finished-at="2020-10-12T23:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndSSO -->
+        <test-method status="PASS" signature="existingOwnersList()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_03getAllExistingOwners@4e41089d]" name="existingOwnersList" duration-ms="1694" started-at="2020-10-12T23:40:54Z" description="List of owners added in the application" finished-at="2020-10-12T23:40:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- existingOwnersList -->
+        <test-method status="PASS" signature="closeAllBrowser()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_03getAllExistingOwners@4e41089d]" name="closeAllBrowser" is-config="true" duration-ms="1749" started-at="2020-10-12T23:40:55Z" finished-at="2020-10-12T23:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+      </class> <!-- AlefEducation.Test_TanveerMujtabaKhan.TC_03getAllExistingOwners -->
+      <class name="AlefEducation.Test_TanveerMujtabaKhan.TC_04addOwnerWithPetDetails">
+        <test-method status="PASS" signature="launchBrowserAndSSO()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_04addOwnerWithPetDetails@32a068d1]" name="launchBrowserAndSSO" is-config="true" duration-ms="6009" started-at="2020-10-12T23:40:57Z" finished-at="2020-10-12T23:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndSSO -->
+        <test-method status="PASS" signature="addOwnerWithPetDetails()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_04addOwnerWithPetDetails@32a068d1]" name="addOwnerWithPetDetails" duration-ms="1992" started-at="2020-10-12T23:41:03Z" description="Add new Owner and the pet details" finished-at="2020-10-12T23:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOwnerWithPetDetails -->
+        <test-method status="PASS" signature="closeAllBrowser()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_04addOwnerWithPetDetails@32a068d1]" name="closeAllBrowser" is-config="true" duration-ms="815" started-at="2020-10-12T23:41:05Z" finished-at="2020-10-12T23:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+      </class> <!-- AlefEducation.Test_TanveerMujtabaKhan.TC_04addOwnerWithPetDetails -->
+      <class name="AlefEducation.Test_TanveerMujtabaKhan.TC_02veterinariansList">
+        <test-method status="PASS" signature="launchBrowserAndSSO()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_02veterinariansList@70beb599]" name="launchBrowserAndSSO" is-config="true" duration-ms="6082" started-at="2020-10-12T23:40:40Z" finished-at="2020-10-12T23:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndSSO -->
+        <test-method status="PASS" signature="Testcase()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_02veterinariansList@70beb599]" name="Testcase" duration-ms="471" started-at="2020-10-12T23:40:46Z" description="list of Veterinarians in the application" finished-at="2020-10-12T23:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase -->
+        <test-method status="PASS" signature="closeAllBrowser()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_02veterinariansList@70beb599]" name="closeAllBrowser" is-config="true" duration-ms="747" started-at="2020-10-12T23:40:47Z" finished-at="2020-10-12T23:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+      </class> <!-- AlefEducation.Test_TanveerMujtabaKhan.TC_02veterinariansList -->
+      <class name="AlefEducation.Test_TanveerMujtabaKhan.TC_05validateNewlyAddedOwners">
+        <test-method status="PASS" signature="launchBrowserAndSSO()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_05validateNewlyAddedOwners@33cb5951]" name="launchBrowserAndSSO" is-config="true" duration-ms="6160" started-at="2020-10-12T23:41:06Z" finished-at="2020-10-12T23:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndSSO -->
+        <test-method status="PASS" signature="validatedNewlyAddedOwnersInfo()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_05validateNewlyAddedOwners@33cb5951]" name="validatedNewlyAddedOwnersInfo" duration-ms="2584" started-at="2020-10-12T23:41:12Z" description="Validated the newly added Owners and pet details " finished-at="2020-10-12T23:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatedNewlyAddedOwnersInfo -->
+        <test-method status="PASS" signature="closeAllBrowser()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_05validateNewlyAddedOwners@33cb5951]" name="closeAllBrowser" is-config="true" duration-ms="919" started-at="2020-10-12T23:41:15Z" finished-at="2020-10-12T23:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+      </class> <!-- AlefEducation.Test_TanveerMujtabaKhan.TC_05validateNewlyAddedOwners -->
+      <class name="AlefEducation.Test_TanveerMujtabaKhan.TC_01verifyImage">
+        <test-method status="PASS" signature="launchBrowserAndSSO()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_01verifyImage@6cc7b4de]" name="launchBrowserAndSSO" is-config="true" duration-ms="7033" started-at="2020-10-12T23:40:32Z" finished-at="2020-10-12T23:40:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndSSO -->
+        <test-method status="PASS" signature="verifyImage()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_01verifyImage@6cc7b4de]" name="verifyImage" duration-ms="41" started-at="2020-10-12T23:40:39Z" description="Verify the Image on Home Page" finished-at="2020-10-12T23:40:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImage -->
+        <test-method status="PASS" signature="closeAllBrowser()[pri:0, instance:AlefEducation.Test_TanveerMujtabaKhan.TC_01verifyImage@6cc7b4de]" name="closeAllBrowser" is-config="true" duration-ms="749" started-at="2020-10-12T23:40:39Z" finished-at="2020-10-12T23:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+      </class> <!-- AlefEducation.Test_TanveerMujtabaKhan.TC_01verifyImage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

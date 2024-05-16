@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="AlefEducation.Test_TanveerMujtabaKhan.TC_05validateNewlyAddedOwners">
+        <methods>
+          <include name="validatedNewlyAddedOwnersInfo"/>
+          <include name="closeAllBrowser"/>
+          <include name="launchBrowserAndSSO"/>
+        </methods>
+      </class> <!-- AlefEducation.Test_TanveerMujtabaKhan.TC_05validateNewlyAddedOwners -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
